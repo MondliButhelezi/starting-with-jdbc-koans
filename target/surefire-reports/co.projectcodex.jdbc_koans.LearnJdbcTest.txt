@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.projectcodex.jdbc_koans.LearnJdbcTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.573 s - in co.projectcodex.jdbc_koans.LearnJdbcTest
